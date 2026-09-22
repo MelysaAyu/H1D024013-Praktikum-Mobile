@@ -49,4 +49,8 @@ dependencies {
 
     // Paket Ikon Lengkap (Saran Asprak)
     implementation("androidx.compose.material:material-icons-extended")
+    androidTestImplementation(platform(libs.androidx.compose.bom))
+    androidTestImplementation(libs.androidx.compose.ui.test.junit4)
+    debugImplementation(libs.androidx.compose.ui.test.manifest)
+    debugImplementation(libs.androidx.compose.ui.tooling)
 }
