@@ -34,3 +34,13 @@ Pertemuan kedua menekankan pada implementasi fitur interaktif dalam aplikasi mob
 
 **Kesimpulan Praktikum:**
 Pada pertemuan ketiga, praktikan mempelajari konsep Dynamic Lists dan Lazy Layouts menggunakan `LazyRow` dan `LazyVerticalGrid` untuk menampilkan data dalam jumlah banyak secara efisien. Selain itu, praktikan juga mengimplementasikan Data Class, struktur data dummy, serta pengelolaan `HomeActivity` sebagai launcher utama aplikasi.
+
+---
+
+## 📄 Tugas Pertemuan 4
+**Tanggal**: Selasa, 23 September 2026
+
+<img src="img/tugas-4-a.jpeg" width="300"> <img src="img/tugas-4-b.jpeg" width="300"> <img src="img/tugas-4-c.jpeg" width="300">
+
+**Kesimpulan Praktikum:**
+Pada pertemuan keempat, praktikan mempelajari pengelolaan State, Recomposition, State Hoisting, dan simulasi proses asinkronus menggunakan LaunchedEffect dalam antarmuka deklaratif. Praktikan juga menerapkan pola Unidirectional Data Flow (UDF), membangun form kompleks interaktif beserta validasinya, serta melakukan navigasi antarhalaman menggunakan NavController.
