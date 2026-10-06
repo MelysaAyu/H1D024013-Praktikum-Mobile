@@ -8,7 +8,7 @@
 ---
 
 ## 📄 Tugas Pertemuan 1
-**Tanggal**: Selasa, 2 September 2026
+**Tanggal**: Rabu, 2 September 2026
 
 <img src="img/tugas-1-a.jpeg" width="300"> <img src="img/tugas-1-b.jpeg" width="300">
 
@@ -18,7 +18,7 @@ Pada pertemuan pertama, praktikan mempelajari dasar pembuatan antarmuka mengguna
 ---
 
 ## 📄 Tugas Pertemuan 2
-**Tanggal**: Selasa, 9 September 2026
+**Tanggal**: Rabu, 9 September 2026
 
 <img src="img/tugas-2-a.jpeg" width="300"> <img src="img/tugas-2-b.jpeg" width="300">
 
@@ -28,7 +28,7 @@ Pertemuan kedua menekankan pada implementasi fitur interaktif dalam aplikasi mob
 ---
 
 ## 📄 Tugas Pertemuan 3
-**Tanggal**: Selasa, 16 September 2026
+**Tanggal**: Rabu, 16 September 2026
 
 <img src="img/tugas-3-a.jpeg" width="300"> <img src="img/tugas-3-b.jpeg" width="300">
 
@@ -38,9 +38,19 @@ Pada pertemuan ketiga, praktikan mempelajari konsep Dynamic Lists dan Lazy Layou
 ---
 
 ## 📄 Tugas Pertemuan 4
-**Tanggal**: Selasa, 23 September 2026
+**Tanggal**: Rabu, 23 September 2026
 
 <img src="img/tugas-4-a.jpeg" width="300"> <img src="img/tugas-4-b.jpeg" width="300"> <img src="img/tugas-4-c.jpeg" width="300">
 
 **Kesimpulan Praktikum:**
 Pada pertemuan keempat, praktikan mempelajari pengelolaan State, Recomposition, State Hoisting, dan simulasi proses asinkronus menggunakan LaunchedEffect dalam antarmuka deklaratif. Praktikan juga menerapkan pola Unidirectional Data Flow (UDF), membangun form kompleks interaktif beserta validasinya, serta melakukan navigasi antarhalaman menggunakan NavController.
+
+---
+
+## 📄 Tugas Pertemuan 5
+**Tanggal**: Rabu, 30 September 2026
+
+<img src="img/tugas-5-a.jpeg" width="300"> <img src="img/tugas-5-b.jpeg" width="300">
+
+**Kesimpulan Praktikum:**
+Pada pertemuan kelima, praktikan mempelajari integrasi REST API menggunakan library **Retrofit**, **Gson Converter**, dan **Coil**, serta penerapan arsitektur **ViewModel** dan **StateFlow**. Praktikan mengimplementasikan pengambilan data produk dan kategori secara asinkronus dari *endpoint REST API* (`https://pemmob-if.web.app/`), mengelola *UI State* (`Loading`, `Success`, dan `Error`), memuat gambar produk secara asinkronus dari jaringan menggunakan `AsyncImage`, serta menggantikan ketergantungan data lokal (*DummyData*) dengan *data source* jaringan.
